@@ -13,7 +13,7 @@ export const serverConfig = {
     allowedHeaders: "Content-Type, x-refresh-token, x-access-token",
     origin: [
       "http://localhost:3000",
-      "https://frent-end.vercel.app",
+      "https://linkuup-back-end.vercel.app/",
     ],
   },
   limiter: {
