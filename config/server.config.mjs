@@ -13,7 +13,7 @@ export const serverConfig = {
     allowedHeaders: "Content-Type, x-refresh-token, x-access-token",
     origin: [
       "http://localhost:3000",
-      "https://linkuup-med.vercel.app/",
+      "https://linkuup-med.vercel.app",
     ],
   },
   limiter: {
